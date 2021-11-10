@@ -1,4 +1,4 @@
-# Modeling the Runyarwanda language
+# Modeling the Runyarwanda language!
 
 Known as Kinyarwanda, this bantu language is one of the richest language linguistically speaking. 
 However; like most African languages, Runyarwanda has gone through alot of changes and has adopted or borrowed words from other languages. 
