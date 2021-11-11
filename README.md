@@ -19,7 +19,7 @@ This techique; instead of tokenizing each single letter; it tokenizes full words
 This is the best technique of all; as it encodes sematics into vestors. This allows grouping related words by pointing their vestors in the same direction. 
 
 
-# The Concept
+## The Concept
 
 After analysis of the written literature of the Kinyarwanda language; it was found that having Kinyarwanda model with the current written techniques it would be costly in terms of grouping related words. The written Kinyarwanda language obstruct related words and mixes up words with their articles and adjectives. This lack of separation causes confusion and costs a lot of unnecessary input data. 
 
@@ -29,7 +29,7 @@ The Approach.
 The Ministry of ICT and Innovation endorses this project as it falls perfectly in its mandate of inducing innovations and research. 
 The Ministry would like to put together a team that would explore this research project. It is through this though process that a small group composed with Machine learning experts, Mathematicians and linguists will be working on the Kinyarwanda Modeling. 
 
-# Activities
+### Activities
 
 1. 	Budget for the project with a prospect partner
 1. 	Defining the scope of work and terms of references
@@ -38,7 +38,7 @@ The Ministry would like to put together a team that would explore this research 
 
 
 
-# Sustainability Model
+### Sustainability Model
 
 Kinyarwanda Digitization will result into a language model that could be potentially be used by other bantu languages in the region. 
 Intellectual property rights will be something to consider. Other researchers or innovators who would like to use it for applications in their languages would be subjected to the IP. The team that will be working on this project will also be aware of the implications of IP rights and would come up with a comprehensive approach that factors in the IP.
