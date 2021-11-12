@@ -13,10 +13,12 @@ This technique, however has serious limitations because there are words (unigram
 * <h3> Word Based encoding </h3>
 
 This techique; instead of tokenizing each single letter; it tokenizes full words. However better is compared to character encoding it still has shortcomings as it lacks semantic recognition. 
+![character token](C:\Users\MINICT\Desktop\Kin_Model\char_tokn)
 
 * <h3> Embedding </h3>
 
 This is the best technique of all; as it encodes sematics into vestors. This allows grouping related words by pointing their vestors in the same direction. 
+![word token](C:\Users\MINICT\Desktop\Kin_Model\emd_vct)
 
 
 ## The Concept
